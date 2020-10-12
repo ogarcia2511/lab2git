@@ -1,1 +1,7 @@
 My name is Omar Garcia. My major is COEN and I graduate in spring of 2021. My hobbies include music and video games.
+
+Courses I'm taking this quarter are:
+- Software Engineering
+- Computer Security
+- Musicianship 1
+- Engineering Ethics
